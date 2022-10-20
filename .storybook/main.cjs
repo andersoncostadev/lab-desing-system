@@ -19,6 +19,6 @@ module.exports = {
     if(configType === 'PRODUCTION') {
       config.base = '/lab-desing-system/'
     }
-    return config;
+    return config
   }
 }
